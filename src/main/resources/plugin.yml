@@ -1,0 +1,8 @@
+name: RankSystem
+version: '${project.version}'
+main: com.juan.ranksystem.Main
+api-version: '1.20'
+commands:
+  rank:
+
+
